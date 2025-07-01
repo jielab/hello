@@ -2,4 +2,4 @@
 
 ![Fig1](./images/fig1.gif)
 
-![LD](./images/ld-block.gif)
+![LD](./images/ld-block.png)
